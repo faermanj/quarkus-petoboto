@@ -22,6 +22,8 @@ The organization is composed of several modules ("shipping", "billing", "sales",
 
 - Integrate with custom corporate users table
 
+- Logout
+
 ## Authorization
 
 - Define and assign custom roles per-module
