@@ -3,7 +3,8 @@
   "packages": [
     "graalvmPackages.graalvm-ce@latest",
     "quarkus@latest",
-    "maven@latest"
+    "maven@latest",
+    "nodePackages.aws-cdk@latest"
   ],
   "shell": {
     "init_hook": [

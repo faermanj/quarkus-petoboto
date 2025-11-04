@@ -101,6 +101,54 @@
         }
       }
     },
+    "nodePackages.aws-cdk@latest": {
+      "last_modified": "2025-10-22T20:59:19Z",
+      "resolved": "github:NixOS/nixpkgs/01b6809f7f9d1183a2b3e081f0a1e6f8f415cb09#nodePackages.aws-cdk",
+      "source": "devbox-search",
+      "version": "2.1004.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/sk2vsjgdg3fjsncya10nal0saqs4r8sq-aws-cdk-2.1004.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/sk2vsjgdg3fjsncya10nal0saqs4r8sq-aws-cdk-2.1004.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/iscx5hi3lzw2ryhi2xd2nz4asrxcinf5-aws-cdk-2.1004.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/iscx5hi3lzw2ryhi2xd2nz4asrxcinf5-aws-cdk-2.1004.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gbqlfy4v15pi6ay355x5z4dzgblxwv30-aws-cdk-2.1004.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gbqlfy4v15pi6ay355x5z4dzgblxwv30-aws-cdk-2.1004.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/mjwlb6bh91lfrg204c79l5gqls9b4lnz-aws-cdk-2.1004.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/mjwlb6bh91lfrg204c79l5gqls9b4lnz-aws-cdk-2.1004.0"
+        }
+      }
+    },
     "quarkus@latest": {
       "last_modified": "2025-10-27T19:50:41Z",
       "resolved": "github:NixOS/nixpkgs/1666250dbe4141e4ca8aaf89b40a3a51c2e36144#quarkus",
