@@ -20,6 +20,8 @@ The organization is composed of several modules ("shipping", "billing", "sales",
 
 - Integrate with Amazon Cognito Federated User Pools
 
+- Integrate with AWS Application Load Balancer
+
 - Integrate with custom corporate users table
 
 - Logout
