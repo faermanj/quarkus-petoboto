@@ -29,7 +29,10 @@ The organization is composed of several modules ("shipping", "billing", "sales",
 ## Frontend Integration
 
 Demonstrate integration with popular UI frameworks.
+
 - Vaadin [first]
 - JSF, React, ...
- 
 
+## Infrastructure as code
+
+Automated deployment with AWS CDK for Java
