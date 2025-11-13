@@ -10,7 +10,12 @@ Provide a realistic reference implementation for a modern application operation,
 
 ## Multi-module
 
-The organization is composed of several modules ("shipping", "billing", "sales", ...) developed independently.
+The organization is composed of several modules ("management", "adoption", "medical", "shipping", ...) developed independently.
+
+- svc-index: Facade frontend Renarde app service served at /
+- svc-mgmt: Management frontend Vaadin app service served at /app/mgmt
+- mod-core: Shared entities and configuration
+- cdk-infra: Cloud deployment using AWS CDK for Java
 
 ## Authentication
 
@@ -34,8 +39,8 @@ The organization is composed of several modules ("shipping", "billing", "sales",
 
 Demonstrate integration with popular UI frameworks.
 
-- Vaadin [first]
-- JSF, React, ...
+- Renarde, Roq, Vaadin (first)
+- JSF, React, ... (later)
 
 ## Infrastructure as code
 
